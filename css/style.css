@@ -34,6 +34,7 @@
 .hero-cantent {
   width: 390px;
   color: #ffff;
+  background-color:black;
 }
 
 .orenge-link {
@@ -106,9 +107,6 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.5px;
-}
-.main-link {
- 
 }
 .site-footer {
   background-color: #f8f8ff;
